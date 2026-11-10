@@ -216,3 +216,8 @@ a{color:inherit}
 @media (max-width:640px){
   .hero-video video{height:250px}
 }
+
+/* Adsterra placements */
+.ad-leaderboard{max-width:728px;margin:16px auto;overflow:hidden;text-align:center}
+.ad-leaderboard iframe{max-width:100%;display:block;margin:0 auto}
+.ad-native{margin:28px 0}
